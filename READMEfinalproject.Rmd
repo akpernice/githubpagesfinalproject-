@@ -1,0 +1,45 @@
+---
+title: 'Final Project: Arts and Religion Survey of 1999'
+author: "Ashlyn Pernice"
+date: "3/9/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Welcome to Ashlyn's Final Project Repository.**
+
+The dataset I will be using is the Arts and Religion Survey from 1999 (United States) provided by ICPSR.
+
+Summary:This data set offers information on Americans' opinions about the role of the arts relative to religion. A total of 1,530 respondents were asked questions about their creative and arts-related activities; their attitudes toward the arts; their religious activities, behaviors, beliefs and affiliations; their spiritual (or "uplifting") experiences; their attitudes toward religion and spirituality; the role of the arts in religious contexts; the relationship between art and spirituality; and their involvement in charitable activities. Respondents were also asked for their demographic information including age, sex, race, and income. In-person, in-home interviews were conducted in Spring 1999. Data was collected in an in-person interview format. 
+
+**Documentation:**
+
+Types of variables: numeric 
+
+Values: Yes or no/ likert scale 1-5. 
+
+Missing data indicated: N/A
+
+**File Navigation**
+
+codebook: codebook and questionairre 
+information: description of data, terms of use, related literature  
+data: contains dataset 
+output: will contain future outputs and plots 
+markdown: markdown files for project 
+
+
+
+
+```{r}
+
+
+
+
+
+
+
+```
